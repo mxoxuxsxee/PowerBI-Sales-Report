@@ -16,7 +16,7 @@
 
 The goal of this project is to provide a comprehensive analysis of pizza sales data, enabling stakeholders to make informed business decisions. The report offers insights into various aspects such as sales trends, product performance, and customer behavior. Additionally, the project serves as a practical exercise to solidify knowledge and skills in Power BI, data transformation, and DAX. 
 
-![image](https://github.com/mxoxuxsxee/PowerBI_Report_Pizza/assets/127127754/183dacc4-5646-425e-94f4-129fc9405182)
+![image](https://github.com/user-attachments/assets/58e0f445-a244-42aa-9c9f-f9c76ef89241)
 
 
 ---
@@ -28,7 +28,7 @@ The goal of this project is to provide a comprehensive analysis of pizza sales d
 
 ---
 ### 🧮 Data
-The primary data used for this analysis is the *"pizza_sales_excel_file.csv"* file, containing detailed information about each sale made by the company and more.
+The primary data used for this analysis is the *"company_sales_excel_file.csv"* file, containing detailed information about each sale made by the company and more.
 
 
 ---
@@ -58,12 +58,13 @@ The report leverages various Power BI features to enhance its interactivity and 
 - **Drill-Through**: Allows users to navigate from summary data to detailed data with a simple click.
 - **Interactive Charts**: Dynamic charts and graphs that respond to user inputs.
 
-![image](https://github.com/mxoxuxsxee/PowerBI_Report_Pizza/assets/127127754/0924b173-c9f7-472e-a6df-3249857df770)
+![image](https://github.com/user-attachments/assets/ca0eea0b-1fe7-42ca-b48e-3b543848d1e3)
+
 
 ---
 ### 💻 Usage 
 To view the report:
 
-1. Clone the repository: ```git clone https://github.com/mxoxuxsxee/PowerBI_Report_Pizza.git```
-3. Open the Power BI file *"Pizza_Sales_Report.pbix"* using Power BI Desktop.
+1. Clone the repository: ```git clone https://github.com/mxoxuxsxee/PowerBI-Sales-Report.git```
+3. Open the Power BI file *"Sales_Report.pbix"* using Power BI Desktop.
 4. Interact with the report using the provided slicers and visuals.
