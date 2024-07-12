@@ -3,12 +3,12 @@
 
 ###  📑 Table of Contents
 
-- [Project Overview](#project-overview-:monocle_face)
-- [Tools](#tools-:hammer_and_wrench)
-- [Project Objective](#project-objective-:closed_book)
-- [Data Cleaning](#data-cleaning-:broom)
-- [Power BI Features](#power-bi-features-:bar_chart)
-- [Usage](#usage-:computer)
+- [Project Overview](#project-overview)
+- [Tools](#tools)
+- [Project Objective](#project-objective)
+- [Data Cleaning](#data-cleaning)
+- [Power BI Features](#power-bi-features)
+- [Usage](#usage)
 
   
 ---
